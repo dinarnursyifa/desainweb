@@ -10,37 +10,45 @@ body,html{
     background: lightblue;
 }
 .section1{
-    background: url(../img/maxresdefault.jpg);
+    background: url(../img/background.jpg);
     width: 100%;
     height: 100%;
     text-align: center; 
 }
 .judul{
-    font-family: Times New Roman;
+    font-family: candara;
     font-size: 60px;
-    color: deeppink;
+    color: black;
     border-bottom: solid 2px black;
     margin: auto
-
 }
 .sub-judul{
-    font-family: Times New Roman;
+    font-family: Candara;
     font-size: 40;
     color: black;
     margin: auto;
 }
 .section2{
-    background: white;
+    background: skyblue;
     padding: 100px 0px;
-        
 }
 .section3{
     background: lightpink;
     padding: 100px 0px;
 }
 .col-warna{
-    background: white;
+    background: lightgrey;
 }
 .col-warna2{
-    background: black;
+    background: white;
+}
+.section5{
+    background: grey;
+    padding: 300 px 0px;
+}
+.col-warna3{
+    background: lightgrey;
+}
+.col-warna4{
+    background: lightpink;
 }
